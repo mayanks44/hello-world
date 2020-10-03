@@ -1,5 +1,5 @@
 # maven-project
 
-Simple Maven Project
+Kubernetes Project
 
 ##Test commit
